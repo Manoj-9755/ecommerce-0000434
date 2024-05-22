@@ -18,8 +18,8 @@ export const Navbar = () => {
           </div>
           
         
-        <div className=" relative w-[30%] flex justify-end mr-7 mt-1  ">
-            <div className="">
+        <div className="  w-[30%] flex justify-end mr-7 mt-1  ">
+            <div className="relative">
               <input
                 className="  w-[135px] h-[33px] mt-1 px-7 rounded-3xl w-22 border-2 border-gray-300 placeholder:italic shadow-sm placeholder:text-sm"
                 placeholder="Search..."
