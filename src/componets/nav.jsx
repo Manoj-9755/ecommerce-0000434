@@ -24,7 +24,7 @@ export const Navbar = () => {
                 className="  w-[135px] h-[33px] mt-1 px-7 rounded-3xl w-22 border-2 border-gray-300 placeholder:italic shadow-sm placeholder:text-sm"
                 placeholder="Search..."
               />
-              <div className="absolute top-3.5 left-[124px]  ">
+              <div className="absolute top-3.5 left-[10px]  ">
               <CiSearch  className=""/>
 
               </div>
