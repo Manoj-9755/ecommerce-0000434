@@ -21,13 +21,13 @@ export const Bottom = () => {
       </div>
       <div className="w-full h-[800px] flex justify-between ">
         <div className=" w-[50%]  p-4 ml-1">
-          <img src={img1} className="rounded-lg " width={482} height={300}  />
+          <img src={img1} className="rounded-lg w-full h-[620px] "    />
 
         </div>
         <div className="p-4 w-[50%] ">
-          <img src={img2} className="  rounded-lg p-1 mb-5"  />
+          <img src={img2} className="  rounded-lg p-1 mb-5 w-full h-[300px]"  />
 
-          <img src={img3} className="rounded-lg p-1"  />
+          <img src={img3} className="rounded-lg p-1 w-full h-[300px]"  />
         </div>
       </div>
     </div>
